@@ -1,4 +1,4 @@
-![ouutput3](https://github.com/Hemanath08/Pharma/assets/151807176/d410d24f-56d0-4697-a441-242b5e37dd6f)# Project Responsive Web Design using Bootstrap
+# Project Responsive Web Design using Bootstrap
 ## Date:10/05/2024
 
 ## AIM:
