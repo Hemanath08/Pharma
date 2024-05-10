@@ -922,7 +922,9 @@ home.html
 ## OUTPUT:
 ![output1](https://github.com/Hemanath08/Pharma/assets/151807176/1cdb14fc-9339-4121-8fb5-efe706c7b2a8)
 ![output2](https://github.com/Hemanath08/Pharma/assets/151807176/da207595-1b15-438d-a187-28d217a53086)
+![ouutput3](https://github.com/Hemanath08/Pharma/assets/151807176/771409ed-1329-4a77-b11d-a5133c836060)
 ![ouutput4](https://github.com/Hemanath08/Pharma/assets/151807176/e5a7e0d4-ceb8-4f69-85e2-82d25345c9bf)
+![output5](https://github.com/Hemanath08/Pharma/assets/151807176/a3069d4c-424e-4469-ab66-2abe7f56a8aa)
 
 
 ## RESULT:
